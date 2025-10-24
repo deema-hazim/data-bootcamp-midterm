@@ -2,6 +2,11 @@
 
 **Team members:** Deema Hazim & Haresh Subaskaran
 
+<a href="https://colab.research.google.com/drive/1DrV7vO8mA72VKXd0IC9ByuhX21YvhtMd?usp=sharing" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+</a>
+
+
 The **Colab notebook** can be accessed [here](https://colab.research.google.com/drive/1DrV7vO8mA72VKXd0IC9ByuhX21YvhtMd?usp=sharing)
 
 ## Introduction
