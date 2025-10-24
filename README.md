@@ -149,3 +149,13 @@ QQQ shows the highest and most frequent volatility spikes, reflecting tech’s s
 Over the past decade, ETFs have provided efficient and low-cost diversification for investors. For cost-efficient, stable long-term exposure, VOO and VTI are optimal. QQQ offers superior growth potential at the expense of higher volatility and fees. VEU provides diversification benefits that smooth risk but may sacrifice returns. Allocation decisions should balance return objectives, tolerance for volatility, and desired geographic exposure.
 
 Market condition analysis shows all ETFs were impacted by systemic shocks like COVID-19, yet the magnitude of their responses depended on composition. Large-cap ETFs (VOO) were more stable, total market funds (VTI) more sensitive to small-cap swings, and tech ETFs (QQQ) experienced the most dramatic rebounds and corrections.
+
+---
+
+**Resources:**
+
+- [Vanguard VEU ETF Profile](https://investor.vanguard.com/investment-products/etfs/profile/veu)
+- [Vanguard VOO ETF Profile](https://investor.vanguard.com/investment-products/etfs/profile/voo)
+- [Vanguard VTI ETF Profile](https://investor.vanguard.com/investment-products/etfs/profile/vti)
+- [Invesco QQQ ETF Overview](https://www.invesco.com/qqq-etf/en/about.html)
+- [yfinance](https://finance.yahoo.com/)
