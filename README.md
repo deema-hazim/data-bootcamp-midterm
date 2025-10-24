@@ -89,7 +89,7 @@ It is important to note that this is just a 10-year window, which may not be rep
 
 The 1-Month Rolling Annualized Volatility graph illustrates how short-term market risk fluctuates over time. Rolling volatility is better at capturing short-term risk while annualized volatility is better at capturing long-term risk. What we did was capture short-term volatility, but scaling it to what it would be if that same level of volatility continued for a year.
 
-It appears that all four lines move in near-perfect sync. When the market is calm, all funds are calm. When a crisis hits, all funds become volatile. This shows they are all sensitive to major macroeconomic events.
+All four ETFs exhibited synchronized volatility movements. When the market is calm, all funds are calm. When a crisis hits, all funds become volatile. This shows they are all sensitive to major macroeconomic events.
 
 The enormous spike in early 2020 is the COVID-19 market crash. It's the most significant volatility event of the last 10 years by a huge margin, with short-term volatility briefly exceeding 90% for some funds.
 
@@ -146,8 +146,6 @@ QQQ shows the highest and most frequent volatility spikes, reflecting tech’s s
 
 ## Conclusions
 
-Over the past decade, ETFs have provided efficient and low-cost diversification for investors. Among the four funds analyzed, QQQ produced the highest return but carried the most risk and highest fee. VOO and VTI offered balanced, low-cost exposure to U.S. equities, with VOO slightly more risk-efficient. VEU provided diversification but lagged in growth and performance.
+Over the past decade, ETFs have provided efficient and low-cost diversification for investors. For cost-efficient, stable long-term exposure, VOO and VTI are optimal. QQQ offers superior growth potential at the expense of higher volatility and fees. VEU provides diversification benefits that smooth risk but may sacrifice returns. Allocation decisions should balance return objectives, tolerance for volatility, and desired geographic exposure.
 
 Market condition analysis shows all ETFs were impacted by systemic shocks like COVID-19, yet the magnitude of their responses depended on composition. Large-cap ETFs (VOO) were more stable, total market funds (VTI) more sensitive to small-cap swings, and tech ETFs (QQQ) experienced the most dramatic rebounds and corrections.
-
-Investors seeking steady, cost-efficient exposure may prefer VOO or VTI, while those pursuing higher growth with greater volatility might consider QQQ. International exposure adds diversification through VEU but at a cost to returns.
