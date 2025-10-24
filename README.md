@@ -37,7 +37,7 @@ Categorical features include ticker, region, holdings, sectors, and market condi
 ## Categorical Data Overview
 
 ### Top 10 Holdings:
-<img width="1422" height="989" alt="image" src="https://github.com/user-attachments/assets/c1341c2f-8617-4a3b-a74d-08de0036187d" />
+<img src="https://github.com/user-attachments/assets/c1341c2f-8617-4a3b-a74d-08de0036187d" width="70%" />
 
 The above pie charts display the top 10 holdings of each ETF, and what percentage of the top 10 does each company hold. We notice that VTI  and QQQ are heavily concentrated in U.S. mega-cap technology stocks. NVIDIA, Microsoft, and Apple are the top 3 holdings in both funds, making up a significant portion of their value.
 
@@ -48,18 +48,20 @@ VEU is the clear outlier. It holds no U.S. companies in its top 10 (or dataset a
 ---
 
 ### Sector Allocation:
-<img width="881" height="679" alt="image" src="https://github.com/user-attachments/assets/78ae2b3f-cdbf-4a17-96c1-ce32c05268db" />
-<img width="990" height="789" alt="image" src="https://github.com/user-attachments/assets/6514165d-3bc3-49d4-89a2-7ed7ae2435b3" />
-<img width="988" height="890" alt="image" src="https://github.com/user-attachments/assets/f4415a18-378c-4ff0-8146-523228623198" />
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/78ae2b3f-cdbf-4a17-96c1-ce32c05268db" width="35%" />
+  <img src="https://github.com/user-attachments/assets/6514165d-3bc3-49d4-89a2-7ed7ae2435b3" width="35%" />
+  <img src="https://github.com/user-attachments/assets/f4415a18-378c-4ff0-8146-523228623198" width="35%" />
+</div>
 
-Both VTI and VOO represent the broad US market (VOO tracks the 500 largest companies, VTI tracks the entire market). Their sector allocations are very similar, with a heavy-but-not-dominant tilt toward technology (35-38%).
+Both VTI and VOO represent the broad US market (VOO tracks the 500 largest companies, VTI tracks the entire market). Their sector allocations are very similar, with a heavy tilt toward technology (35-38%).
 
 QQQ, which tracks the NASDAQ-100, is not a diversified fund in the same way. It is a highly concentrated bet on the technology sector. Together, its top two sectors (Technology and Consumer Discretionary) account for over 82% of the fund.
 
 ---
 
 ### VEU Region Distribution:
-<img width="794" height="679" alt="image" src="https://github.com/user-attachments/assets/4dfca9f4-bc5d-49ff-9eed-3dd4df2f63f9" />
+<img src="https://github.com/user-attachments/assets/4dfca9f4-bc5d-49ff-9eed-3dd4df2f63f9" width="50%" />
 
 Since VEU does not include any U.S. companies, we decided to look at the regions their holdings come from. We notice this distribution supports the top 10 holdings we saw earlier. We see that the Pacific makes up 25.5% of the fund, driven by the fund's #1 holding, Taiwan Semiconductor Manufacturing from Taiwan, and another major holding, Samsung from South Korea.
 
@@ -70,7 +72,7 @@ Emerging Markets make up 27.5% of the fund, represented at the top of the holdin
 ---
 
 ## Risk vs. Return:
-<img width="704" height="547" alt="image" src="https://github.com/user-attachments/assets/61e4a24a-850e-48b9-a6ce-3cbc7e054a8c" />
+<img src="https://github.com/user-attachments/assets/61e4a24a-850e-48b9-a6ce-3cbc7e054a8c" width="50%"/>
 
 QQQ has the highest annualized return and risk. This is a direct consequence of its 64% concentration in the high-growth (and high-volatility) technology sector.
 
@@ -83,7 +85,7 @@ It is important to note that this is just a 10-year window, which may not be rep
 ---
 
 ## Rolling Volatility (Dynamic Risk):
-<img width="846" height="509" alt="image" src="https://github.com/user-attachments/assets/5c4d0986-4fe3-462e-9713-86dd9e615b53" />
+<img src="https://github.com/user-attachments/assets/5c4d0986-4fe3-462e-9713-86dd9e615b53" width="50%" />
 
 The 1-Month Rolling Annualized Volatility graph illustrates how short-term market risk fluctuates over time. Rolling volatility is better at capturing short-term risk while annualized volatility is better at capturing long-term risk. What we did was capture short-term volatility, but scaling it to what it would be if that same level of volatility continued for a year.
 
@@ -96,7 +98,7 @@ The green (VOO) and red (VTI) lines are almost indistinguishable. This confirms 
 ---
 
 ## Dollar Loss Due to Expense Ratios:
-<img width="876" height="509" alt="image" src="https://github.com/user-attachments/assets/e55f4fa1-6854-4d9f-97f0-c2af74523614" />
+<img src="https://github.com/user-attachments/assets/e55f4fa1-6854-4d9f-97f0-c2af74523614" width="50%"/>
 
 Over the 10-year period, holding QQQ would have cost an investor nearly $140,000 in cumulative fees, assuming a $1M initial investment. This is because QQQ's 0.2% expense ratio is nearly 7 times higher than VOO/VTI's 0.03%.
 
@@ -107,8 +109,8 @@ It is important to note that the expense ratio is charged on the total value of 
 ---
 
 ## What weights of each ticker would yield the best return, lowest volatility and efficient sharpe ratio:
-<img width="833" height="509" alt="image" src="https://github.com/user-attachments/assets/2ac4534b-6192-4af1-965c-a2d081ddfae1" />
-<img width="270" height="88" alt="Screenshot 2025-10-23 at 9 29 01 PM" src="https://github.com/user-attachments/assets/275a807b-3c5c-4adb-8db0-30bdd9ae46e0" />
+<img src="https://github.com/user-attachments/assets/2ac4534b-6192-4af1-965c-a2d081ddfae1" width="50%" />
+<img src="https://github.com/user-attachments/assets/275a807b-3c5c-4adb-8db0-30bdd9ae46e0" width="50%"/>
 
 
 To evaluate how different allocations among VOO, VTI, QQQ, and VEU perform, three portfolios were modeled: Aggressive (60% QQQ), Equal-weighted (25% each), and Conservative (80% VOO/VTI combined).
@@ -121,8 +123,8 @@ Overall, concentrated exposure to technology increases both return potential and
 
 ## Market-Condition Performance
 
-### a) COVID Crash (Feb–Mar 2020)
-<img width="883" height="547" alt="image" src="https://github.com/user-attachments/assets/941db183-4c49-490b-91e2-093d5e3bd2ef" />
+### a) COVID Crash (Feb–Mar 2020):
+<img src="https://github.com/user-attachments/assets/941db183-4c49-490b-91e2-093d5e3bd2ef" width="50%" />
 
 All four ETFs dropped ~30–35% highlighting how correlated global markets were during the COVID panic. 
 
@@ -130,13 +132,13 @@ QQQ recovered first, showing how tech’s relative immunity to lockdowns (remote
 
 VEU and VTI illustrate the drag from small caps and international exposure during global uncertainty.
 
-### b) Interest Rates Hike: Jan 2022 - Dec 2022
-<img width="690" height="438" alt="image" src="https://github.com/user-attachments/assets/6aef444e-0414-49de-b241-7e61ce19b344" />
+### b) Interest Rates Hike (Jan 2022 - Dec 2022):
+<img src="https://github.com/user-attachments/assets/6aef444e-0414-49de-b241-7e61ce19b344" width="50%" />
 
 VEU was the least volatile fund throughout 2022. This is likely because international markets are less concentrated in the high-growth US tech stocks that were being hit hardest. And QQQ is consistently and dramatically higher than all the others. This is because high-growth technology stocks are the most sensitive to interest rate hikes.
 
-### c) Interest Rate Cut Period: 2023-2024
-<img width="718" height="438" alt="image" src="https://github.com/user-attachments/assets/34fe77b6-5138-4ee1-82f9-6aa894b30458" />
+### c) Interest Rate Cut Period (2023-2024):
+<img src="https://github.com/user-attachments/assets/34fe77b6-5138-4ee1-82f9-6aa894b30458" width="50%"/>
 
 QQQ shows the highest and most frequent volatility spikes, reflecting tech’s sensitivity to interest-rate shifts. VOO and VTI remain more stable, with lower, smoother volatility typical of broad U.S. market exposure. VEU moves similarly but with occasional divergences driven by global/geopolitical factors. Volatility clusters around policy uncertainty, then compresses once easing becomes clearer. The synchronized spikes indicate system-wide macro risk rather than ETF-specific shocks.
 
