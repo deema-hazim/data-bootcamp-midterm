@@ -154,7 +154,7 @@ Market condition analysis shows all ETFs were impacted by systemic shocks like C
 
 ---
 
-**Resources:**
+## Resources:
 
 - [Vanguard VEU ETF Profile](https://investor.vanguard.com/investment-products/etfs/profile/veu)
 - [Vanguard VOO ETF Profile](https://investor.vanguard.com/investment-products/etfs/profile/voo)
