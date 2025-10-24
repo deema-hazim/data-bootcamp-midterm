@@ -2,6 +2,8 @@
 
 **Team members:** Deema Hazim & Haresh Subaskaran
 
+**Colab Notebook** can be accessed [here](https://colab.research.google.com/drive/1DrV7vO8mA72VKXd0IC9ByuhX21YvhtMd?usp=sharing)
+
 ## Introduction
 Exchange-Traded Funds (ETFs) have become one of the most popular investment vehicles in modern financial markets due to their low cost, liquidity, and diversified exposure. They allow investors to easily access entire indices, sectors, or asset classes without purchasing individual securities. However, not all ETFs perform equally. Even among major index-tracking funds, differences in composition, volatility, and fees can significantly influence investor returns.
 
